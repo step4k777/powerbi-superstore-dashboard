@@ -10,6 +10,12 @@
 
 ---
 
+# Superstore Sales Dashboard (Power BI)
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
 ## Основные метрики дашборда
 
 В дашборде представлены ключевые KPI:
@@ -54,25 +60,19 @@
 
 ## Структура проекта
 
-powerbi-superstore-dashboard/
+powerbi-superstore-dashboard
 │
-├ dashboard/
-│ superstore_dashboard.pbix
+├── dashboard
+│ └── superstore_dashboard.pbix
 │
-├ dataset/
-│ superstore.csv
+├── dataset
+│ └── superstore.csv
 │
-├ screenshots/
-│ dashboard.png
+├── screenshots
+│ └── dashboard.png
 │
-└ README.md
+└── README.md
 
-
----
-
-## Скриншот дашборда
-
-![Dashboard](screenshots/dashboard.png)
 
 ---
 
