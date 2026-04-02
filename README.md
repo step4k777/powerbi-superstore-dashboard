@@ -59,7 +59,7 @@
 ---
 
 ## Структура проекта
-
+```
 powerbi-superstore-dashboard
 │
 ├── dashboard
@@ -72,7 +72,7 @@ powerbi-superstore-dashboard
 │ └── dashboard.png
 │
 └── README.md
-
+```
 
 ---
 
