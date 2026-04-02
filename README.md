@@ -12,7 +12,7 @@
 
 # Superstore Sales Dashboard (Power BI)
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ---
 
